@@ -1,0 +1,196 @@
+{
+  "customer": [
+    {
+      "id": 135325,
+      "acc_no": 8511002001488,
+      "cust_name": "Ravi Dhamne",
+      "adhar_no": 258436159519,
+      "mobile_no": 9876543210,
+      "balance": 7500,
+      "transaction": [
+        {
+          "date": "29-07-2022",
+          "particular": "",
+          "batch_no": 56,
+          "type": "credit",
+          "amount": 1200,
+          "balance": 1200
+        },
+        {
+          "date": "29-07-2022",
+          "particular": "by cash",
+          "batch_no": 714,
+          "type": "credit",
+          "amount": 1500,
+          "balance": 2700
+        },
+        {
+          "date": "29-07-2022",
+          "particular": "",
+          "batch_no": 174,
+          "type": "credit",
+          "amount": 4800,
+          "balance": 7500
+        },
+        {
+          "date": "29-07-2022",
+          "particular": "chq no 526 by Pankaj Dhamne",
+          "batch_no": 93,
+          "type": "credit",
+          "amount": 4800,
+          "balance": 12300
+        },
+        {
+          "date": "29-07-2022",
+          "particular": "to cash",
+          "batch_no": 145,
+          "type": "Debit",
+          "amount": 5000,
+          "balance": 7300
+        },
+        {
+          "date": "29-07-2022",
+          "particular": "",
+          "batch_no": 73,
+          "type": "Credit",
+          "amount": 100,
+          "balance": 7400
+        },
+        {
+          "date": "29-07-2022",
+          "particular": "",
+          "batch_no": 534,
+          "type": "Credit",
+          "amount": 500,
+          "balance": 7900
+        },
+        {
+          "date": "30-07-2022",
+          "particular": "by chq",
+          "batch_no": 563,
+          "type": "Debit",
+          "amount": 400,
+          "balance": 7500
+        }
+      ]
+    },
+    {
+      "id": 135225,
+      "acc_no": 8511002001489,
+      "cust_name": "ABC XYX",
+      "adhar_no": 561306255866,
+      "mobile_no": 9158724772,
+      "balance": 7875.25,
+      "transaction": [
+        {
+          "date": "22-05-2022",
+          "particular": "To Cash",
+          "batch_no": 4321,
+          "type": "debit",
+          "amount": 1000,
+          "aft_bal": 0
+        },
+        {
+          "date": "29-07-2022",
+          "particular": "by Cash",
+          "batch_no": 572,
+          "type": "credit",
+          "amount": 850.25,
+          "balance": 7875.25
+        }
+      ]
+    },
+    {
+      "cust_name": "pankaj dhamne",
+      "id": 1659125043529,
+      "acc_no": 85110025737,
+      "balance": 1000,
+      "transaction": [
+        {
+          "date": "30-07-2022",
+          "particular": "by cash",
+          "batch_no": 48,
+          "type": "Credit",
+          "amount": 1000,
+          "balance": 1000
+        },
+        {
+          "date": "30-07-2022",
+          "particular": "by cash",
+          "batch_no": 905,
+          "type": "Credit",
+          "amount": 500,
+          "balance": 1500
+        },
+        {
+          "date": "30-07-2022",
+          "particular": "by cash",
+          "batch_no": 576,
+          "type": "Debit",
+          "amount": 500,
+          "balance": 1000
+        }
+      ],
+      "adhar_no": "586425643259",
+      "mobile_no": "9730696887"
+    },
+    {
+      "cust_name": "XYX ABCr",
+      "id": 1659125144813,
+      "acc_no": 85110024527,
+      "balance": 600,
+      "transaction": [
+        {
+          "date": "30-07-2022",
+          "particular": "by cash",
+          "batch_no": 526,
+          "type": "Credit",
+          "amount": 100,
+          "balance": 100
+        },
+        {
+          "date": "30-07-2022",
+          "particular": "to cash",
+          "batch_no": 502,
+          "type": "Debit",
+          "amount": 100,
+          "balance": 0
+        },
+        {
+          "date": "30-07-2022",
+          "particular": "by cash",
+          "batch_no": 483,
+          "type": "Credit",
+          "amount": 1000,
+          "balance": 1000
+        },
+        {
+          "date": "30-07-2022",
+          "particular": "to cash",
+          "batch_no": 825,
+          "type": "Debit",
+          "amount": 400,
+          "balance": 600
+        }
+      ],
+      "adhar_no": "545522668899",
+      "mobile_no": "9158866225"
+    }
+  ],
+  "staff": [
+    {
+      "username": "SBI1695",
+      "password": "1234",
+      "staff_name": "Ravi Dhamne",
+      "branch_name": "pune",
+      "designation": "Cashier"
+    },
+    {
+      "username": "SBI1696",
+      "password": "12345",
+      "staff_name": "XYZ ABX",
+      "branch_name": "pune",
+      "designation": "Bank Manager"
+    }
+  ]
+}
